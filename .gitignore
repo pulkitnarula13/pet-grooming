@@ -1,0 +1,10 @@
+client/node_modules
+server/node_modules
+.env
+client/ios
+client/package-lock.json
+node_modules
+yarn.lock
+package-lock.json
+
+.vscode
